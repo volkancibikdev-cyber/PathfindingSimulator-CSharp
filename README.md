@@ -13,7 +13,7 @@ An interactive, highly visual desktop application that simulates the **A* (A-Sta
 * **High-Performance Rendering:** Instead of using thousands of heavy UI controls, the entire grid is painted natively using the **GDI+** engine (`System.Drawing`) for maximum memory efficiency and zero lag.
 
 ## 🛠️ Tech Stack & Key Concepts
-* **Language:** C# 8.0+
+* **Language:** C# 10.0+
 * **Framework:** .NET (Windows Forms)
 * **Rendering:** GDI+ Graphics API
 * **Core Skills Demonstrated:** * Graph Theory & Search Algorithms
