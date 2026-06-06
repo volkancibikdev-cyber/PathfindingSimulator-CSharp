@@ -1,9 +1,9 @@
-<img width="1072" height="783" alt="Animation" src="https://github.com/user-attachments/assets/adb7ef20-1cab-4295-9c2b-09dac8798dcc" /><img width="1072" height="783" alt="Animation" src="https://github.com/user-attachments/assets/e22aeabc-ff37-41aa-8167-5f1338f7d71b" /># 🧭 A* Pathfinding Algorithm Simulator
+<img width="1072" height="783" alt="Animation" src="https://github.com/user-attachments/assets/e22aeabc-ff37-41aa-8167-5f1338f7d71b" /># 🧭 A* Pathfinding Algorithm Simulator
 
 An interactive, highly visual desktop application that simulates the **A* (A-Star) Pathfinding Algorithm**. Built entirely in C#, this project demonstrates core computer science algorithms, event-driven programming, and high-performance UI rendering.
 
 ![A-Star Simulation Demo]
-[cv_normal.odt](https://github.com/user-attachments/files/28673450/cv_normal.odt)
+
 
 
 ## ✨ Features
